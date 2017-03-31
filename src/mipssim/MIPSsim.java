@@ -9,7 +9,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 /**
  *
- * @author pooja
+ * @author karthik
  */
 public class MIPSsim
 {
